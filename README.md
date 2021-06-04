@@ -4,5 +4,5 @@ A new Flutter package project.
 
 ## Getting Started
 
-[List Iconly name](https://m-noer.github.io/flutter_iconly_web/),
+To See list icons => [List Iconly name](https://m-noer.github.io/flutter_iconly_web/),
 

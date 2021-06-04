@@ -1,7 +1,5 @@
 library flutter_iconly;
 
-import 'package:flutter/material.dart';
-
-part 'src/iconly_bold.dart';
-part 'src/iconly_broken.dart';
-part 'src/iconly_light.dart';
+export 'src/iconly_bold.dart';
+export 'src/iconly_broken.dart';
+export 'src/iconly_light.dart';

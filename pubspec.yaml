@@ -1,11 +1,10 @@
 name: flutter_iconly
-description: Flutter icon package using Iconly.
-version: 1.0.0
-author: Muhammad Noerhidayatullah<mnoer900913@gmail.com>
+description: 300+ Free icons for your next project in 5 styles (Light, Bold, Broken) for flutter. Icons designed by piqo.
+version: 1.0.1
 repository: https://github.com/m-noer/flutter_iconly.git
 
 environment:
-  sdk: ">=2.12.0 <3.0.0"
+  sdk: ">=2.7.0 <3.0.0"
   flutter: ">=1.17.0"
 
 dependencies:
@@ -20,10 +19,10 @@ flutter:
   fonts:
     - family: IconlyBold
       fonts:
-        - asset: assets/fonts/iconly_bold.ttf
+        - asset: fonts/iconly_bold.ttf
     - family: IconlyLight
       fonts:
-        - asset: assets/fonts/IconlyLight.ttf
+        - asset: fonts/IconlyLight.ttf
     - family: IconlyBroken
       fonts:
-        - asset: assets/fonts/IconlyBroken.ttf
+        - asset: fonts/IconlyBroken.ttf
