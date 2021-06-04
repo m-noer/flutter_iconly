@@ -1,0 +1,31 @@
+import 'package:flutter/material.dart';
+import 'package:flutter_iconly/flutter_iconly.dart';
+
+void main() {
+  runApp(MyApp());
+}
+
+class MyApp extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+        title: 'Iconly Demo',
+        theme: ThemeData(
+          primarySwatch: Colors.blue,
+        ),
+        home: Center(
+          child: Column(
+            children: [
+              /// Icon Style Bold
+              Icon(IconlyBold.activity),
+
+              /// Icon Style Light
+              Icon(IconlyLight.activity),
+
+              /// Icon Style Broken
+              Icon(IconlyBroken.activity),
+            ],
+          ),
+        ));
+  }
+}
