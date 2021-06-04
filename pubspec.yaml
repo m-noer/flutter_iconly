@@ -2,6 +2,7 @@ name: flutter_iconly
 description: Flutter icon package using Iconly.
 version: 1.0.0
 author: Muhammad Noerhidayatullah<mnoer900913@gmail.com>
+repository: https://github.com/m-noer/flutter_iconly.git
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
