@@ -19,13 +19,15 @@ class MyApp extends StatelessWidget {
             child: Column(
               children: [
                 /// Icon Style Bold
-                Icon(IconlyBold.activity),
+                Icon(IconlyBold.user2),
 
                 /// Icon Style Light
                 Icon(IconlyLight.activity),
 
                 /// Icon Style Broken
-                Icon(IconlyBroken.activity),
+                Icon(IconlyBroken.user2),
+
+                Icon(Icons.ac_unit)
               ],
             ),
           ),
